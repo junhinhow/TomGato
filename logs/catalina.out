@@ -1,0 +1,106 @@
+out 16, 2014 6:56:53 PM org.apache.catalina.core.AprLifecycleListener init
+INFORMAÇÕES: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+out 16, 2014 6:56:54 PM org.apache.coyote.AbstractProtocol init
+INFORMAÇÕES: Initializing ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:56:54 PM org.apache.coyote.AbstractProtocol init
+INFORMAÇÕES: Initializing ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:56:54 PM org.apache.catalina.startup.Catalina load
+INFORMAÇÕES: Initialization processed in 2039 ms
+out 16, 2014 6:56:54 PM org.apache.catalina.core.StandardService startInternal
+INFORMAÇÕES: Starting service Catalina
+out 16, 2014 6:56:54 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMAÇÕES: Starting Servlet Engine: Apache Tomcat/7.0.54
+out 16, 2014 6:56:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/examples
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/examples has finished in 1,601 ms
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/ROOT
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/ROOT has finished in 108 ms
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/host-manager
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/host-manager has finished in 106 ms
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/docs
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/docs has finished in 92 ms
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/manager
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/manager has finished in 103 ms
+out 16, 2014 6:56:56 PM org.apache.coyote.AbstractProtocol start
+INFORMAÇÕES: Starting ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:56:56 PM org.apache.coyote.AbstractProtocol start
+INFORMAÇÕES: Starting ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:56:56 PM org.apache.catalina.startup.Catalina start
+INFORMAÇÕES: Server startup in 2134 ms
+out 16, 2014 6:59:36 PM org.apache.catalina.core.StandardServer await
+INFORMAÇÕES: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+out 16, 2014 6:59:36 PM org.apache.coyote.AbstractProtocol pause
+INFORMAÇÕES: Pausing ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:59:36 PM org.apache.coyote.AbstractProtocol pause
+INFORMAÇÕES: Pausing ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:59:36 PM org.apache.catalina.core.StandardService stopInternal
+INFORMAÇÕES: Stopping service Catalina
+out 16, 2014 6:59:36 PM org.apache.coyote.AbstractProtocol stop
+INFORMAÇÕES: Stopping ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:59:36 PM org.apache.coyote.AbstractProtocol stop
+INFORMAÇÕES: Stopping ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:59:36 PM org.apache.coyote.AbstractProtocol destroy
+INFORMAÇÕES: Destroying ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:59:36 PM org.apache.coyote.AbstractProtocol destroy
+INFORMAÇÕES: Destroying ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:59:45 PM org.apache.catalina.core.AprLifecycleListener init
+INFORMAÇÕES: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+out 16, 2014 6:59:45 PM org.apache.coyote.AbstractProtocol init
+INFORMAÇÕES: Initializing ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:59:45 PM org.apache.coyote.AbstractProtocol init
+INFORMAÇÕES: Initializing ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:59:45 PM org.apache.catalina.startup.Catalina load
+INFORMAÇÕES: Initialization processed in 597 ms
+out 16, 2014 6:59:45 PM org.apache.catalina.core.StandardService startInternal
+INFORMAÇÕES: Starting service Catalina
+out 16, 2014 6:59:46 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMAÇÕES: Starting Servlet Engine: Apache Tomcat/7.0.54
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/examples
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/examples has finished in 696 ms
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/ROOT
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/ROOT has finished in 55 ms
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/host-manager
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/host-manager has finished in 67 ms
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/docs
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/docs has finished in 57 ms
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deploying web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/manager
+out 16, 2014 6:59:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFORMAÇÕES: Deployment of web application directory /home/jhimmy/_desenvolvimento/_sever/apache-tomcat-7.0.54/webapps/manager has finished in 103 ms
+out 16, 2014 6:59:46 PM org.apache.coyote.AbstractProtocol start
+INFORMAÇÕES: Starting ProtocolHandler ["http-bio-8080"]
+out 16, 2014 6:59:47 PM org.apache.coyote.AbstractProtocol start
+INFORMAÇÕES: Starting ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 6:59:47 PM org.apache.catalina.startup.Catalina start
+INFORMAÇÕES: Server startup in 1034 ms
+out 16, 2014 7:01:23 PM org.apache.coyote.AbstractProtocol pause
+INFORMAÇÕES: Pausing ProtocolHandler ["http-bio-8080"]
+out 16, 2014 7:01:23 PM org.apache.coyote.AbstractProtocol pause
+INFORMAÇÕES: Pausing ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 7:01:23 PM org.apache.catalina.core.StandardService stopInternal
+INFORMAÇÕES: Stopping service Catalina
+out 16, 2014 7:01:23 PM org.apache.coyote.AbstractProtocol stop
+INFORMAÇÕES: Stopping ProtocolHandler ["http-bio-8080"]
+out 16, 2014 7:01:23 PM org.apache.coyote.AbstractProtocol stop
+INFORMAÇÕES: Stopping ProtocolHandler ["ajp-bio-8009"]
+out 16, 2014 7:01:23 PM org.apache.coyote.AbstractProtocol destroy
+INFORMAÇÕES: Destroying ProtocolHandler ["http-bio-8080"]
+out 16, 2014 7:01:23 PM org.apache.coyote.AbstractProtocol destroy
+INFORMAÇÕES: Destroying ProtocolHandler ["ajp-bio-8009"]
